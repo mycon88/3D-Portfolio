@@ -410,3 +410,6 @@ p {
     transform: translateX(-50%) scale(1);
     top: -1.8rem;
 }
+.page-front h1 {
+    text-align: center;   
+}
